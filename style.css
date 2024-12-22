@@ -63,4 +63,8 @@ body {
     margin: 0 auto;
   
   }
-  
+  @media (max-width: 485px) {
+    .container{
+        margin: 0 20px;
+    }
+  }
